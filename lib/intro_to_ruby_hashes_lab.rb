@@ -11,7 +11,7 @@ def my_hash
 end
 
 def pioneer
-  people = { }
+  people = {:name => }
 end
 
 
