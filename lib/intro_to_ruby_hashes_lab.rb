@@ -1,16 +1,20 @@
 def new_hash
-  # return an empty hash
+  second_new_hash = {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  prices = {
+"bread" => 2.35,
+"milk" =>  3.00,
+"eggs" =>  2.15
+}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  people = {:name => 'Grace Hopper' }
 end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  set = {:id => number}
 end
